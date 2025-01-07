@@ -25,6 +25,7 @@ Sur ce, si vous souhaitez réaliser cet atelier de votre côté pour apprendre U
 - Un mini PC Window pour le moniteur de l'atelier: 200€ ([Info](https://github.com/EloiStree/HelloInput/issues/313))
 - Optionnel: Un grand écran pour afficher la vue d'un des joueurs.
 - Pas de manette en jeu pour éviter les risques de casse avec les enfants
+  - Si l'atelier finit entre les mains d'enfants ou d'adolescents.
 - Une Flybox pour transporter le matériel : environ 400€.
 
 Coût approximatif : 2500€.
