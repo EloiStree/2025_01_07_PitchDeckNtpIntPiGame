@@ -127,8 +127,7 @@ Vous pouvez utiliser des codes du SDK disponibles sur l'Asset Store.
 
 Dans le projet, l'XR Interaction Toolkit est également installé.
 [[https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@3.0/manual/index.html](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@3.0/manual/index.html)  
-[![image](https://github.com/user-attachments/assets/adccfeb6-98e4-4827-b6b9-f6b5c812283a)](https://youtu.be/dCVAYB2jkEY?t=17)  
-[https://youtu.be/dCVAYB2jkEY?t=17](https://youtu.be/dCVAYB2jkEY?t=17)  
+[![image](https://github.com/user-attachments/assets/adccfeb6-98e4-4827-b6b9-f6b5c812283a)](https://youtu.be/dCVAYB2jkEY?t=17)[https://youtu.be/dCVAYB2jkEY?t=17](https://youtu.be/dCVAYB2jkEY?t=17)  
 
 
 Pour intéragir avec les objets du jeu, si vous n'avez pas un développeur senior en XR dans l'équipe, je vous conseille d'utiliser:
