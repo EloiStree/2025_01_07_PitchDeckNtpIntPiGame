@@ -7,7 +7,7 @@ Si ce projet voit le jour, ce document servira de pilier fondamental et de manue
 En attendant une éventuelle validation du projet, je le construis comme un exercice pour un atelier d'une semaine et un projet d'un mois destiné aux futurs développeurs de jeux, notamment dans des centres de formation et des écoles supérieures.
 
 Toujours partisan de l'open source pour les parties que je développe dans un projet,  
-vous y trouverez de nombreuses boîtes à outils hébergées sur GitHub.com/EloiStree,  
+vous y trouverez de nombreuses boîtes à outils hébergées sur [GitHub.com/EloiStree](https://github.com/EloiStree),  
 permettant la construction de tels projets.  
 
 Voici quelques liens et documents pour me présenter dans le cadre de ce projet.
