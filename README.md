@@ -104,7 +104,8 @@ Sans scan de la pièce :
 
 Au plus simple :  
 - Le joueur choisit le niveau qu'il veut essayer de résoudre en attendant que le moniteur lance le jeu.  
-- Le niveau se charge sur un élément flottant dans un rayon maximal de 2 mètres.  
+- Le niveau se charge sur un élément flottant dans un rayon maximal de 2 mètres
+  - Il est peut-être déplacé, mais comme l'atelier est destiné à des développeurs juniors, il n'est pas agrandissable.
   - Voir [Bam](https://youtu.be/mX9UK0FXwaE?t=1)  
 [![image](https://github.com/user-attachments/assets/9585a99c-2752-4893-a5e9-b8163cd4fddd)](https://youtu.be/mX9UK0FXwaE?t=1)  
 https://youtu.be/mX9UK0FXwaE?t=1  
