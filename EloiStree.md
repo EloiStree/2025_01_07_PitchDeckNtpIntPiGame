@@ -40,7 +40,7 @@ Enseignement:
 [https://youtu.be/ChG1OTAbN6U](https://youtu.be/ChG1OTAbN6U)  
 
 [![image](https://github.com/user-attachments/assets/7880aa94-1c94-4cff-98e9-d944c2da60d2)](https://github.com/EloiStree/Teaching)  
-[History](https://github.com/EloiStree/Teaching): https://github.com/EloiStree/Teaching - [Download CV](https://private-user-images.githubusercontent.com/20149493/303931812-cfdd3142-6303-49da-96fb-498cadb26db1.png)  
+History: [https://github.com/EloiStree/Teaching](https://github.com/EloiStree/Teaching) - [Download CV](https://private-user-images.githubusercontent.com/20149493/303931812-cfdd3142-6303-49da-96fb-498cadb26db1.png)  
 
 Précédent project:  
 _[https://www.youtube.com/c/EloiStr%C3%A9e/videos](https://www.youtube.com/c/EloiStr%C3%A9e/videos)_  
