@@ -44,7 +44,7 @@ Coût approximatif : 2500€.
 
 **Concept de base du jeu:**
 
-Le jeu est un mélange de [22 Minutes pour sauver l'univers](https://www.youtube.com/watch?v=Ss6vLmLcCbU&t=471s) et [Keep Talking And Nobody Explodes](https://www.youtube.com/results?search_query=Keep+Talking+And+Nobody+Explodes) avec une touche de [Starship Home](https://www.youtube.com/results?search_query=Starship+home).   
+Le méchanisme du jeu est un mélange de [22 Minutes pour sauver l'univers](https://www.youtube.com/watch?v=Ss6vLmLcCbU&t=471s) et [Keep Talking And Nobody Explodes](https://www.youtube.com/results?search_query=Keep+Talking+And+Nobody+Explodes) avec une touche de [Starship Home](https://www.youtube.com/results?search_query=Starship+home).   
 
 Le jeu "multi-joueur" en réalité semi-augmentée est un groupe d'énigmes à résoudre à travers des mini-jeux liés par le temps qui s'écoule, d'où l'utilisation d'un serveur NTP.   
 Les joueurs ont la capacité d'interagir via une transmission d'événements sans paramètres.   
