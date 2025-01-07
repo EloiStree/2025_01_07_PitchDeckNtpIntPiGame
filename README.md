@@ -112,4 +112,47 @@ https://youtu.be/mX9UK0FXwaE?t=1
 
 
 
+# Video d'inspiration AR
+
+|  |  |  |  |
+|---|---|---|---|
+| [![image](https://github.com/user-attachments/assets/33c47314-b461-4e87-87eb-8c962a3bbffb)](https://www.youtube.com/watch?v=8hozDugbX28) | [![image](https://github.com/user-attachments/assets/1a1b0c53-dff0-47ae-8687-44f1b0463b94)](https://www.youtube.com/shorts/y1Nl9WE2AMw) | [![image](https://github.com/user-attachments/assets/60021dd9-f38d-4db2-9afa-ee89bd372526)](https://www.youtube.com/shorts/ur_StzmHeFE) | [![image](https://github.com/user-attachments/assets/a96ca00e-6e04-44b1-98a6-2ead2d48f29a)](https://www.youtube.com/shorts/Tq9d2DeCXyc?t=26&feature=share) |
+
+# Quest 3 SDK
+
+Le projet est dédié au Quest3.
+Vous pouvez utiliser des codes du SDK disponibles sur l'Asset Store.
+[![image](https://github.com/user-attachments/assets/f93ae190-6a12-4c02-991b-700dd3a4a90f)](https://assetstore.unity.com/packages/tools/integration/meta-xr-all-in-one-sdk-269657)
+
+Dans le projet, l'XR Interaction Toolkit est également installé.
+[[https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@3.0/manual/index.html](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@3.0/manual/index.html)
+![image](https://github.com/user-attachments/assets/adccfeb6-98e4-4827-b6b9-f6b5c812283a)](https://youtu.be/dCVAYB2jkEY?t=17)
+[https://youtu.be/dCVAYB2jkEY?t=17](https://youtu.be/dCVAYB2jkEY?t=17)
+
+
+Pour intéragir avec les objets du jeu, si vous n'avez pas un développeur senior en XR dans l'équipe, je vous conseille d'utiliser:
+
+🤖 Unity’s **`UnityEngine.EventSystems`** namespace includes a variety of interfaces, classes, and enums designed to handle input and UI interactions in Unity.
+
+1. **Pointer Events**:
+   - `IPointerEnterHandler`: Called when the pointer enters the object.
+   - `IPointerExitHandler`: Called when the pointer exits the object.
+   - `IPointerDownHandler`: Called when the pointer is pressed down on the object.
+   - `IPointerUpHandler`: Called when the pointer is released on the object.
+   - `IPointerClickHandler`: Called when the object is clicked with the pointer.
+   - `IBeginDragHandler`: Called when a drag operation starts on the object.
+   - `IDragHandler`: Called continuously during a drag operation.
+   - `IEndDragHandler`: Called when a drag operation ends.
+   - `IDropHandler`: Called when another object is dropped on this object.
+   - `IScrollHandler`: Called when scrolling (e.g., mouse scroll wheel) occurs over this object.
+
+2. **Focus Events**:
+   - `ISelectHandler`: Called when the object is selected.
+   - `IDeselectHandler`: Called when the object is deselected.
+   - `IMoveHandler`: Called when movement input (e.g., arrow keys or gamepad) is detected.
+
+3. **Keyboard and Submit Events**:
+   - `IUpdateSelectedHandler`: Called every frame for the currently selected object.
+   - `ISubmitHandler`: Called when the submit action (e.g., pressing Enter or a controller button) is performed.
+   - `ICancelHandler`: Called when the cancel action (e.g., pressing Escape or a controller button) is performed.
 
