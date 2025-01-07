@@ -39,7 +39,7 @@ Coût approximatif : 2500€.
   - Un code pour se synchroniser sur le NTP
   - Un code pour envoyé et recevoir des évènements entier avec IID
   - Un code de stoquage de clé RSA
-    - pour identifier les casques si plusieurs jeux sur le même réseaux e
+    - pour identifier les casques si plusieurs jeux sont sur le même réseaux 
     - pour éviter des saboteurs extérieurs à la partie en cours
 
 
