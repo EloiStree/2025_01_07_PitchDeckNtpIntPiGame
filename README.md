@@ -122,13 +122,13 @@ https://youtu.be/mX9UK0FXwaE?t=1
 # Quest 3 SDK
 
 Le projet est dédié au Quest3.
-Vous pouvez utiliser des codes du SDK disponibles sur l'Asset Store.
+Vous pouvez utiliser des codes du SDK disponibles sur l'Asset Store. 
 [![image](https://github.com/user-attachments/assets/f93ae190-6a12-4c02-991b-700dd3a4a90f)](https://assetstore.unity.com/packages/tools/integration/meta-xr-all-in-one-sdk-269657)
 
 Dans le projet, l'XR Interaction Toolkit est également installé.
-[[https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@3.0/manual/index.html](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@3.0/manual/index.html)
-![image](https://github.com/user-attachments/assets/adccfeb6-98e4-4827-b6b9-f6b5c812283a)](https://youtu.be/dCVAYB2jkEY?t=17)
-[https://youtu.be/dCVAYB2jkEY?t=17](https://youtu.be/dCVAYB2jkEY?t=17)
+[[https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@3.0/manual/index.html](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@3.0/manual/index.html)  
+[![image](https://github.com/user-attachments/assets/adccfeb6-98e4-4827-b6b9-f6b5c812283a)](https://youtu.be/dCVAYB2jkEY?t=17)  
+[https://youtu.be/dCVAYB2jkEY?t=17](https://youtu.be/dCVAYB2jkEY?t=17)  
 
 
 Pour intéragir avec les objets du jeu, si vous n'avez pas un développeur senior en XR dans l'équipe, je vous conseille d'utiliser:
