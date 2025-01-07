@@ -1,6 +1,6 @@
 # Pitch Deck Ntp Int Pi Game  
 
-Concept d’un projet pour un client, utilisable dans un cours sur Unity3D, utilisant 4+ Quest 3 et un Raspberry Pi en local.  
+Concept d’un projet pour un client qui est aussi utilisable dans un cours sur Unity3D, utilisant 4+ Quest 3 et un Raspberry Pi en local.  
 
 Dans le cadre du concept proposé pour un client, nous allons développer un **serious game** sous Unity3D.  
 Ce projet est permettre, aussi, la réalisation d’un atelier d’apprentissage Unity3D orienté game design et développement, en créant un jeu en réseau **sans nécessiter l’apprentissage préalable de la partie réseau**.  
