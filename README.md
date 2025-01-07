@@ -21,7 +21,7 @@ Sur ce, si vous souhaitez réaliser cet atelier de votre côté pour apprendre U
 - Un routeur Wi-Fi 6 de bonne qualité: 70€  ([Info](https://github.com/EloiStree/HelloInput/issues/310))
 - Quatre Quest 3 ou Quest 3S pour l'atelier 330€ x 4  ([Info](https://github.com/EloiStree/HelloInput/issues/311))
   - Une pour le développeur
-- Quatre BoboVR pour faire tenir le casque en QR: 70€ x 4 ([Info](https://github.com/EloiStree/HelloInput/issues/312))
+- Quatre BoboVR pour faire tenir le casque en AR: 70€ x 4 ([Info](https://github.com/EloiStree/HelloInput/issues/312))
 - Un mini PC Window pour le moniteur de l'atelier: 200€ ([Info](https://github.com/EloiStree/HelloInput/issues/313))
 - Optionnel: Un grand écran pour afficher la vue d'un des joueurs.
 - Pas de manette en jeu pour éviter les risques de casse avec les enfants
