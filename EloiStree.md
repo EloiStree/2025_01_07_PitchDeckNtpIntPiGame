@@ -1,6 +1,6 @@
 L'atelier est une proposition en réponse à une demande d'Arteam & Co. en ce mois de janvier 2025.
 
-Ce répertoire Git représente à la fois un pitch et un manuel de base pour le code derrière le concept technique du jeu. Vous y trouverez des aides, des notes et des guides relatifs au code utilisé pour la construction du squelette des parties réseau et XR du jeu.
+Ce répertoire Git représente à la fois un pitch et un manuel de base pour le code derrière le concept technique du jeu. Vous y trouverez des aides, des notes et des guides relatifs au code utilisé pour la construction du squelette de la partie réseau et XR du jeu.
 
 Si ce projet voit le jour, ce document servira de pilier fondamental et de manuel de référence pour les futurs développeurs qui reprendront le projet.
 
