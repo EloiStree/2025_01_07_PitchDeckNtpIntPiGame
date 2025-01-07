@@ -65,7 +65,7 @@ Comme pour **22 Minutes pour sauver l'univers**, c'est la capacité à comprendr
       - Attention, avec le temps, le portail sera l'une des premières choses à devenir obsolètes avec Unity3D.
 
 
-Si vous désirez modder le jeu pour apprendre Unity3D.
+Si vous désirez "modder" le code de base pour apprendre Unity3D.
 - Un menu développeur vous est disponible pour simuler les évènements d'autres joueurs.
 - Votre niveau doit se calquer sur le temps du jeu que vous modder
 - votre niveau doit savoir se jouer en solitaire pour résoudre l'énigme de votre niveau.
