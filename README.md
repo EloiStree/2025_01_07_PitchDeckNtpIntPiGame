@@ -23,12 +23,15 @@ Sur ce, si vous souhaitez réaliser cet atelier de votre côté pour apprendre U
   - Une pour le développeur
 - Quatre BoboVR pour faire tenir le casque en AR: 70€ x 4 ([Info](https://github.com/EloiStree/HelloInput/issues/312))
 - Un mini PC Window pour le moniteur de l'atelier: 200€ ([Info](https://github.com/EloiStree/HelloInput/issues/313))
-- Optionnel: Un grand écran pour afficher la vue d'un des joueurs.
+- Un écran portable qui rentre dans un flycase 120€ ([Info]()).
 - Pas de manette en jeu pour éviter les risques de casse avec les enfants
   - Si l'atelier finit entre les mains d'enfants ou d'adolescents.
-- Une Flybox pour transporter le matériel : environ 400€.
+- Une Flybox pour transporter le matériel : environ 400 €.  
+- Multiprise compatible avec la Flybox 20-60€: 8 slots (4 Quest, piles, mini PC, Raspberry Pi).  
+- Chargeur de piles pour 8 slots avec 16 piles AA 40€: ([Info](https://github.com/EloiStree/HelloInput/issues/315)).  
 
-Coût approximatif : 2500€.
+Si vous souhaitez d'autres améliorations ou précisions, n'hésitez pas !
+Coût approximatif : 2700€.
 
 **Code nécessaire**:
 - Sur le Raspberry Pi 5:
