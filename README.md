@@ -15,6 +15,7 @@ Sur ce, si vous souhaitez réaliser cet atelier de votre côté pour apprendre U
 ----------------------
 
 
+![image](https://github.com/user-attachments/assets/e17f9aac-7fb1-459f-8e87-9ffd6df7334a)
 
 **Matériel nécessaire :**  
 - Un Raspberry Pi 5: 75€ ou 150€ ([Info](https://github.com/EloiStree/HelloInput/issues/308))
