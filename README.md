@@ -30,7 +30,6 @@ Sur ce, si vous souhaitez réaliser cet atelier de votre côté pour apprendre U
 - Multiprise compatible avec la Flybox 20-60€: 8 slots (4 Quest, piles, mini PC, Raspberry Pi).  
 - Chargeur de piles pour 8 slots avec 16 piles AA 40€: ([Info](https://github.com/EloiStree/HelloInput/issues/315)).  
 
-Si vous souhaitez d'autres améliorations ou précisions, n'hésitez pas !
 Coût approximatif : 2700€.
 
 **Code nécessaire**:
