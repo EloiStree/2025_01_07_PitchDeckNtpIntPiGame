@@ -4,10 +4,11 @@
    - Go to [Scrcpy GitHub Repository](https://github.com/Genymobile/scrcpy) and download the latest version of Scrcpy for Windows.
 
 2. **Clone the required repositories**:
-   - Open your terminal or command prompt and run the following commands to clone the necessary repositories into specific directories:
+   - Open your terminal or command prompt and run the following commands to clone the necessary repositories into scrcpy directory:
      ```sh
      git clone https://github.com/EloiStree/2024_05_23_SCRCPYBatFiles.git BatFiles
      git clone https://github.com/EloiStree/2025_01_12_BuildAndRunApkBroadcast.git BuildAndRunAll
+     
      ```
 
 3. **Create the APK**:
