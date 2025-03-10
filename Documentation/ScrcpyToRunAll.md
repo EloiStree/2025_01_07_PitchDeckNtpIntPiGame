@@ -1,0 +1,3 @@
+- https://github.com/Genymobile/scrcpy
+  - `git clone https://github.com/EloiStree/2024_05_23_SCRCPYBatFiles`
+  - `git clone https://github.com/EloiStree/2025_01_12_BuildAndRunApkBroadcast.git`
