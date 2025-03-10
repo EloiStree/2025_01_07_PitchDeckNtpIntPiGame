@@ -12,5 +12,9 @@ Installed:
 - [ ] d
 
 Quest 3:
-- Do you have a Meta Quest Developer account ?
-- Do you ha
+- [ ] Do you have a Meta Quest Developer account ?
+- [ ] Do you have a phone number to link to the Meta Account ?
+- [ ] Do you have a Double Auth Application linked to the Meta Quest Account ?
+- [ ] Do you have a Visa, or else, to validate your developer account ?
+
+ 
