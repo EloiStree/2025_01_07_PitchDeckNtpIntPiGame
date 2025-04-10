@@ -25,6 +25,6 @@ git clone https://github.com/EloiStree/2025_04_09_XboxKeyboardCalibration.git
 git clone https://github.com/EloiStree/OpenUPM_UnityPackageFacilitator.git
 git clone https://github.com/EloiStree/OpenUPM_QuickGitUtility.git
 
-https://github.com/EloiStree/OpenUPM_WatchExecuteTime
+git clone https://github.com/EloiStree/OpenUPM_WatchExecuteTime.git
 ```
 
