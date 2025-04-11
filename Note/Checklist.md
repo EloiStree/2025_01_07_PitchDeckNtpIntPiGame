@@ -38,5 +38,12 @@ Facade to Game FG
   - GF:  List of Monster as gameobject ot enable disable
     - Or: Code that notify that Monster is death and spawn
   - GFG: Game Time ?
-  - GF: Is game over
-  - 
+  - GF: Enter Password
+ 
+- 
+
+
+
+ 
+
+
