@@ -38,7 +38,7 @@ Install on pi
 - is trusted websocket install on pi?
 - is flask install on pi?
   - at least 8080 /hostname ?
-- are port 22 123 80 8080 4615 4625  open ?
+- are port 22 123 80 8080 4615 4625  5353 open ?
 
 Unity 3D
 - Add those important package
